@@ -1,0 +1,25 @@
+\begin{thebibliography}{}
+
+\bibitem[Google 2024]{ortools_knapsack}
+Google (2024).
+\newblock The knapsack problem.
+\newblock \url{https://developers.google.com/optimization/pack/knapsack}.
+\newblock Acesso em: 6 jul. 2026.
+
+\bibitem[Pisinger 2005]{pisinger2005}
+Pisinger, D. (2005).
+\newblock Where are the hard knapsack problems?
+\newblock {\em Computers \& Operations Research}, 32(9):2271--2284.
+
+\bibitem[Talbi 2009]{talbi2009}
+Talbi, E.-G. (2009).
+\newblock {\em Metaheuristics: From Design to Implementation}.
+\newblock John Wiley \& Sons.
+
+\bibitem[thehardway15 2026]{pisinger_generator}
+thehardway15 (2026).
+\newblock Pisinger knapsack generator.
+\newblock \url{https://github.com/thehardway15/pisinger-knapsack-generator}.
+\newblock Acesso em: 6 jul. 2026.
+
+\end{thebibliography}
